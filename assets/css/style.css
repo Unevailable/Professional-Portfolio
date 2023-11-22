@@ -230,5 +230,76 @@ p {
 
 }
 
+/* Mobile styles */
+@media only screen and (max-width: 700px) {
+
+    .banner {
+        height: 250px;
+    }
+
+    .text-banner {
+        top: 400px;
+        right: 10px;
+        font-size: 20px;
+    }
+
+    .header h1 {
+        font-size: 24px;
+    }
+
+    .header section {
+        float: none;
+    }
+
+    .header section ul li {
+        margin: 0;
+    }
+
+    .content {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .about-me h2,
+    .Work h2,
+    .contact-me h2 {
+        text-align: center;
+        padding-right: 0;
+        height: 60px;
+        border-right: 0px;
+        padding-right: 0px;
+
+    }
+
+    .about-me,
+    .Work,
+    .contact-me {
+        flex-direction: column;
+    }
+
+    .pre-work {
+        left: 30px;
+        top: 0px
+    }
+
+    .Bangladesh-war {
+        left: 50px;
+        width: 70%;
+    }
+
+    p {
+        position: relative;
+        margin-right: 50px;
+        font-size: 20px;
+        left: 20px;
+        text-align: center;
+
+    }
+
+}
+
+
+
+
 
 
