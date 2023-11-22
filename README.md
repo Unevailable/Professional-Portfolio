@@ -19,7 +19,8 @@ Xpert Learning Assistant
 
 ## Website 
 https://unevailable.github.io/Professional-Portfolio/Links
-
+![Preview of the Website](assets/porfolio1/.PNG)
+![Preview of the Website](assets/porfolio2/.PNG)
 
 
 ## License
